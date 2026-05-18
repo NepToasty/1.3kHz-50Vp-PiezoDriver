@@ -1,5 +1,5 @@
-# 1.3kHz-50Vpp-PiezoDriver
-1.3kHz 50Vpp PiezoDriver
+# 1.3kHz-50Vp-PiezoDriver
+1.3kHz 50Vp PiezoDriver
 
 
 <img width="3209" height="2160" alt="PiezoPCB1" src="https://github.com/user-attachments/assets/fe4c47ac-0734-461e-aa9e-d862a6e9d53f" />
